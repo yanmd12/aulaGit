@@ -1,0 +1,11 @@
+.revista{
+    background-image: linear-gradient(to top, rgb(190, 190, 190), rgb(175, 175, 175));
+    display: flex;
+    flex-direction: column;
+    margin: 0 1rem 5rem 0;
+    width: calc(33.33% - 2.5rem);
+    font-size: large;
+    
+    
+    
+}

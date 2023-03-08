@@ -1,0 +1,50 @@
+@import url(cabecalho.css);
+@import url(normalize.css);
+@import url(reset.css);
+
+/* ======================================================== */
+
+@import url(menu/menu-lista.css);
+@import url(menu/menu-link.css);
+@import url(menu/menu-item.css);
+
+/* ======================================================== */
+
+@import url(banner/banner-imagem.css);
+@import url(banner/banner-titulo.css);
+@import url(banner/banner.css);
+
+/* =============================================================== */
+@import url(sobre/sobre-descricao.css);
+@import url(sobre/sobre-titulo.css);
+@import url(sobre/sobre.css);
+
+/* ============================================================== */
+
+@import url(revista.css);
+@import url(revistas/revista-botao.css);
+@import url(revistas/revista-conteudo.css);
+@import url(revistas/revista-descricao.css);
+@import url(revistas/revista-titulo.css);
+@import url(revistas/revista.css);
+@import url(revistas/revista.imagem.css);
+
+/* ============================================================== */
+
+@import url(quem-somos/quem-somos-descricao.css);
+@import url(quem-somos/quem-somos-titulo.css);
+@import url(quem-somos/quem-somos.css);
+@import url(pessoas.css);
+@import url(pessoa/pessoa-funcao.css);
+@import url(pessoa/pessoa-imagem.css);
+@import url(pessoa/pessoa-nome.css);
+@import url(pessoa/pessoa.css);
+
+/* ============================================================= */
+
+@import url(rodape.css);
+
+/* ============================================================= */
+
+@import url(modal/modal-login.css);
+

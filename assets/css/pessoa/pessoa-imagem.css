@@ -1,0 +1,19 @@
+.pessoa__imagem{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+    width: 300px;
+    margin: 0 auto;
+    border-radius: 50%;
+}
+
+
+
+.pessoa__imagem--andreia{
+    background-image: url('../../img/pessoas/eu.jpg');
+}
+
+.pessoa__imagem--marcela{
+    background-image: url('../../img/pessoas/flor.jpg');
+}

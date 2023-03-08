@@ -1,0 +1,36 @@
+.revista__botao{
+    background-image: linear-gradient(45deg, rgb(167, 167, 111), rgb(212, 212, 34) );
+    border: rgb(0, 0, 0);
+    border-radius: 10px;
+    color: #000000;
+    padding: 1rem;
+    transition: all 0.1s ease-in-out;
+    text-decoration: none;
+    line-height: normal;
+    
+
+}
+
+/* muda o mouse ao estar em cima */
+
+
+@keyframes anima{
+    0%{
+        transform: scale(1);
+    }
+
+    100%{
+        transform: scale(1.20);
+    }
+}
+
+.revista__botao:hover{
+    
+    cursor: pointer;
+    animation-name: anima;
+    animation-duration: 0.5s;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+
+}

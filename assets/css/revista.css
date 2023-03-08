@@ -1,0 +1,13 @@
+.revistas{
+    width: 97%;
+    padding: 300px ;
+    display: flex;
+    flex-wrap: wrap;
+    background-image: linear-gradient(to top,rgb(0, 0, 0), rgb(56, 55, 53) );
+    
+    height: auto;
+    
+    padding: 5rem 0 0 5rem;
+    /* mesma coisa que colocar cada um em um padding só */
+}
+

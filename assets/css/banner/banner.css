@@ -1,0 +1,12 @@
+.banner{
+    /* margin-top: 5%; */
+    position: relative;
+    
+    
+}
+
+body{
+    background-color: rgb(56, 71, 71);
+    width: 100%;
+    overflow-x: hidden;
+}
