@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-12T13:03:08.648Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="q4WyfPaP18kmR7-LGePb" version="21.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-12T13:05:58.694Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="hldLkhhIx8M_VPRjGTvI" version="21.1.7" type="github">
   <diagram name="Página-1" id="Lf6JS9fH9UZmJyPvx950">
     <mxGraphModel dx="1114" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -556,6 +556,42 @@
           <mxGeometry x="-0.1526" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="POV-58pNnmW4dKtdD9n9-120" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="1970" as="sourcePoint" />
+            <mxPoint x="540" y="1970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="POV-58pNnmW4dKtdD9n9-121" value="casoNaoRegistraProblema()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="POV-58pNnmW4dKtdD9n9-120">
+          <mxGeometry x="-0.1158" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="POV-58pNnmW4dKtdD9n9-122" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="2010" as="sourcePoint" />
+            <mxPoint x="150" y="2010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="POV-58pNnmW4dKtdD9n9-123" value="enviaConfirmaçao()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="POV-58pNnmW4dKtdD9n9-122">
+          <mxGeometry x="-0.3026" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="POV-58pNnmW4dKtdD9n9-124" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="2050" as="sourcePoint" />
+            <mxPoint x="160" y="2050" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="POV-58pNnmW4dKtdD9n9-125" value="exibeStatusDoProblema()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="POV-58pNnmW4dKtdD9n9-124">
+          <mxGeometry x="0.1474" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="POV-58pNnmW4dKtdD9n9-126" value="5- ATENDIMENTO AO CLIENTE" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1730" width="550" height="480" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
